@@ -19,13 +19,12 @@ kubernetes cluster build deps images
 * kubernetes-dashboard-amd64
 * pause-amd64
 
--
-
+* flannel-amd64
 * weave-kube
 * weave-npc
-
--
 
 * k8s-dns-dnsmasq
 * k8s-dns-kube-dns
 * k8s-dns-sidecar
+* heapster-influxdb-amd64
+* skydns-amd64
