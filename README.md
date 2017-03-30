@@ -2,7 +2,12 @@
 
 kubernetes cluster build deps images
 
-# Current version for k8s 1.5.2
+# Current version for k8s: 
+
+```
+--> |-> v1.6.0
+    |-> v1.5.2
+```
 
 # Docker Hup:
 
