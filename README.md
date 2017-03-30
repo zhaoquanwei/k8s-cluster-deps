@@ -5,7 +5,7 @@ kubernetes cluster build deps images
 # Current version for k8s: 
 
 ```
---> |-> v1.6.0
+--> |-> v1.6.0 (master)
     |-> v1.5.2
 ```
 
